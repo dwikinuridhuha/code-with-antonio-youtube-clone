@@ -9,7 +9,7 @@ export default function Home() {
           width={50}
           height={50}
         />
-      <p>NewTube</p>
+      <p className="text-xl font-semibold tracking-tight">NewTube</p>
     </div>
   );
 }
